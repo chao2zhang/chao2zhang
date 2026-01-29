@@ -2,7 +2,7 @@
 
 Hi there, I am Chao.
 
-- 🌱 I am passionately learning Go and Kotlin, with the help of AI agent
+- 🌱 I am passionately Claude-pilled. Previously worked on Golang, Kotlin, and Ruby-based projects.
 - 🥎 I play pickleball at least 3 times a week.
 - 👶 I had a baby girl this year 2025!
 - 🔭 I am currently helping to maintain [Detekt](https://github.com/detekt/detekt).
