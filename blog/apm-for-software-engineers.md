@@ -34,7 +34,7 @@ Single-agent Claude was a gateway drug. Once you got used to delegating one task
 
 That's when I found Gastown, Steve Yegge's multi-agent workspace manager. The pitch: coordinate 20-30 Claude agents working in parallel, each in their own git worktree, with persistent identities and a coordination layer called "The Mayor." The naming is pure Mad Max (Polecats, Rigs, Convoys), which honestly sold me before I even read the docs.
 
-The first time I spun up a convoy of agents and watched them fan out across a codebase, each picking up an issue, working independently, and reporting back, I understood something about scaling that I'd first learned 15 years ago in StarCraft.
+The first time I spun up a convoy of agents and watched them fan out across a codebase, each picking up an issue, working independently, and reporting back, I understood something about scaling that I'd first learned twenty years ago in StarCraft, hunched over a keyboard in a room that smelled like instant noodles.
 
 The game isn't about doing one thing faster. It's about doing many things at once.
 
@@ -42,7 +42,7 @@ The game isn't about doing one thing faster. It's about doing many things at onc
 
 ## The Comparison That Won't Leave My Head
 
-I've been playing StarCraft since the late '90s. I've been doing agentic coding for about a year. The parallels are so clean it's almost suspicious.
+I've been playing StarCraft since I was old enough to reach the keyboard. My older cousins had it on their PC and I'd watch them play for hours before I was allowed to touch the mouse. By the time I was ten, I was laddering on my own. I've been doing agentic coding for about a year. The parallels are so clean it's almost suspicious.
 
 | StarCraft Concept | Agentic Workflow Equivalent | Why It Matters |
 |---|---|---|
@@ -125,7 +125,7 @@ In StarCraft, the difference between a good player and a great player isn't APM.
 
 Agentic coding is the same. The tooling is table stakes. Claude, Gastown, Cursor, Copilot, whatever. They're all going to get better, fast. The skill that will matter is knowing how to decompose problems. How to sequence work. How to allocate agents to tasks where they'll be effective. How to spot when an agent is going off the rails before it corrupts half your codebase. How to maintain the mental model of a system that's being modified by twenty workers simultaneously.
 
-That's not a prompting skill. That's a systems thinking skill. And it's the same skill that StarCraft has been training in people for 25 years.
+That's not a prompting skill. That's a systems thinking skill. And it's the same skill that StarCraft has been training in people for nearly three decades.
 
 I never thought my hundreds of hours on Battle.net would show up on a performance review. Life is strange.
 
