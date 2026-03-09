@@ -36,6 +36,7 @@ When the `cmux` CLI is available on PATH, use it to:
 ## Workflow Orchestration
 
 ### Plan Mode
+- Before starting multi-file changes or research tasks, outline your plan in 3-5 bullet points and wait for user approval before executing.
 - Enter plan mode for ANY non-trivial task (3+ steps or architectural decisions)
 - If something goes sideways, STOP and re-plan immediately - don't keep pushing
 - Use plan mode for verification steps, not just building
