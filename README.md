@@ -7,4 +7,3 @@ Hi there, I am Chao.
 - 👨‍👨‍👧 I had a baby girl since 2025 May.
 - 🥕 I am employed at Instacart (http://www.instacart.com/).
 - 🕵️ I am currently helping to maintain [Detekt](https://github.com/detekt/detekt).
-- 💬 Occansionally, I share my learnings on [Medium](https://chao2zhang.medium.com/).
