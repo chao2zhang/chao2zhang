@@ -5,13 +5,13 @@
 - Prefer short sentences over complex ones.
 - Avoid philosophy references and academic namedropping.
 - Be direct. State claims plainly.
-- Use tables and lists where they improve clarity.
+- Use tables and lists only where they improve clarity.
 - Avoid hype and unsupported predictions.
 - Hedge appropriately where evidence is thin.
 - Acknowledge counterarguments.
-
-## Communication Style
-- When asked to confirm something ran successfully or check results, report the factual outcome concisely. Do not over-analyze or flag potential issues unless explicitly asked to review.
+- If high-density advanced English vocabulary is used, attach a Chinese translation for that specific paragraph.
+- When asked to confirm something ran successfully or check results, report the factual outcome concisely. 
+- Do not over-analyze or flag potential issues unless explicitly asked to review.
 
 ## Git Operations
 - When cleaning up git branches, always check for both local branches AND worktrees associated with merged/closed PRs. Use `gh pr list --state merged` and `gh pr list --state closed` to identify candidates.
